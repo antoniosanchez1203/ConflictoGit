@@ -1,0 +1,2 @@
+# ConflictoGit
+Conflicto de error
